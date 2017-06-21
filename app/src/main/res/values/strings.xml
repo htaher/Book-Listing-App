@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find My Book</string>
+    <string name="search_text">Search a book or an author</string>
+    <string name="enter_word">Enter an author or a book name</string>
+    <string name="no_title">No title available for this book</string>
+    <string name="no_author">No author(s) available for this book</string>
+    <string name="no_description">No description available for this book</string>
+    <string name="no_internet">There is no Internet connection</string>
+</resources>
